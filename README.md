@@ -12,7 +12,7 @@ Works
 - Bluetooth
 - Audio plugs
 - USB
-- HDMI
+- HDMI (Video)
 - Sleep
 
 Not works
