@@ -9,11 +9,13 @@ X1 Carbon 8th Gen i7-10510u
 
 Works
 
+- Ethernet
 - Wifi(Airportitlwm)
 - Bluetooth
 - Audio plugs
 - USB
 - HDMI
+- Sleep
 
 Not works
 
