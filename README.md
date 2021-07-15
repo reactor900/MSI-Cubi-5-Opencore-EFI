@@ -5,8 +5,6 @@ i3-10110u, i5-10210u, i7-10510u
 
 Opencore 071, 10.15.7 (Catalina)
 
-X1 Carbon 8th Gen i7-10510u
-
 Works
 
 - Ethernet
