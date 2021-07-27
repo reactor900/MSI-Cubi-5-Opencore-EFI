@@ -14,9 +14,6 @@ Works
 - USB
 - HDMI (Video)
 - Sleep
-
-Not works
-
 - HDMI Audio out
 
 not tested
